@@ -1,5 +1,5 @@
 import React from 'react';
-import MemoryGame from './components/memoryGame';
+import MemoryGame from './memoryGame';
 
 export default function App() {
   return (

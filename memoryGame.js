@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text, FlatList, Alert} from "react-native";
-import Cards from './cards';
-import CardData from './cardData';
+import Cards from './components/cards';
+import CardData from './components/cardData';
 
 export default class MemoryGame extends React.Component {
    constructor(props) {
